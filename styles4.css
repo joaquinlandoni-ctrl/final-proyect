@@ -1,6 +1,11 @@
+h1{
+	color: #db4e35;
+}
+h2{
+	color: #2869d1;
+}
 body{
-	background-color: #abcff5;
-	
+	background-color: #abbed9;
 }
 img:hover{
 	border-radius: 100px;
@@ -16,9 +21,6 @@ ul li a{
 	padding: 14px 15px;
 	color: #86b5bd;
 }
-}
-ul li a:hover{
-	background-color: #5fad9a;
 }
 .active{
 	font-weight: bold;
