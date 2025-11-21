@@ -27,3 +27,10 @@ ul li a:hover{
 ul{
     list-style-type :none;
     overflow: hidden;
+
+li{
+	display: block;
+	float: left;
+	width: 50px;
+	padding: 10px 15px;
+}

@@ -29,3 +29,13 @@ ul li a{
 ul{
     list-style-type :none;
     overflow: hidden;
+
+.fancyImage:hover{
+	opacity: 0.8;
+}
+li{
+	display: block;
+	float: left;
+	width: 50px;
+	padding: 10px 15px;
+}
